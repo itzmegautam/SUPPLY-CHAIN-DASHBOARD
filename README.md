@@ -116,4 +116,4 @@ Provides a geographical view of revenue contribution and supply chain performanc
 ## 6. Screenshots / Demo
 
 ### Dashboard Preview
-
+![Dashboard Preview](https://github.com/itzmegautam/SUPPLY-CHAIN-DASHBOARD/blob/main/SUPPLY%20CHAIN%20DASHBOARD.png)
